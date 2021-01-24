@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536991967252",
+    "project_id": "avian-bird-232318",
+    "storage_bucket": "avian-bird-232318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536991967252:android:d0dcdf3ff06752bdc99f01",
+        "android_client_info": {
+          "package_name": "com.example.brikouli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536991967252-3v8fe189au5314riftg9upagdj4rpl6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brikouli",
+            "certificate_hash": "7261b0061ba41c88adc72a9b863a9f2ffa86c44a"
+          }
+        },
+        {
+          "client_id": "536991967252-df7kim9k8lav862a4vhie1lh784mo6c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGcMuNCeGEhYQVtPsYoixftabZ5P4DAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536991967252-df7kim9k8lav862a4vhie1lh784mo6c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

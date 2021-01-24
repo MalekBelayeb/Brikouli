@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brikouli</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="signin"><u>Sign In</u></string>
+    <string name="signup"><u>Sign Up</u></string>
+    <string name="api_key">AIzaSyCjGcMuNCeGEhYQVtPsYoixftabZ5P4DAA</string>
+    <string name="facebook_app_id">234559084806410</string>
+    <string name="fb_login_protocol_scheme">fb234559084806410</string>
+</resources>
